@@ -4,12 +4,9 @@ import ReplyIcon from 'react-icons/lib/md/chat-bubble-outline';
 import FavoriteIcon from 'react-icons/lib/md/favorite-outline';
 import MessageIcon from 'react-icons/lib/md/mail-outline';
 import MasterControlIcon from 'react-icons/lib/md/more-vert';
-
 import './Post.css';
-
 import Edit from './Edit/Edit';
 
-//////////////////////////////////////////////////////// THIS COMPONENT IS BEING RENDERED IN THE *APP* COMPONENT
 
 export default class Post extends Component {
   constructor() {
